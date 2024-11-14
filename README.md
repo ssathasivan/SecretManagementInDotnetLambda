@@ -26,7 +26,7 @@ AWS Lambda Power Tuning (https://github.com/alexcasalboni/aws-lambda-power-tunin
 
 ## Test Results ###
 
-
+The test confirmed our expectations that lambda that retrieves the secret using Lambda Extension is always more performant and cheaper than the lambda that retrieves the secret using AWS SDK. 
 
 <img src="PerformanceResults.png" alt="Before image">
 
