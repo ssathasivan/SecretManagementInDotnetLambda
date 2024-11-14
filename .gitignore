@@ -5,3 +5,4 @@
 /.vs
 /LambaWithSecretAWSSDK/Lambda.Secrets.AWSSDK/obj
 /LambdaWithSecretManagerExtension/Lambda.Secrets.Extension/obj
+/LambdaWithSecretAWSSDK/Lambda.Secrets.AWSSDK/obj
