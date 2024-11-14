@@ -22,3 +22,4 @@ Lambda invocations were done in parallel and had a  combination of cold starts a
 associated costs, providing insights into performance improvements.
 
 ## Test Results ###
+<img src="PerformanceResults.png" alt="Before image">
